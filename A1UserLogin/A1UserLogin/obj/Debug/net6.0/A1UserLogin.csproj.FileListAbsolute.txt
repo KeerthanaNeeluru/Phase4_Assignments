@@ -1,0 +1,11 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\bin\Debug\net6.0\A1UserLogin.deps.json
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\bin\Debug\net6.0\A1UserLogin.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\bin\Debug\net6.0\A1UserLogin.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\A1UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\A1UserLogin.AssemblyInfoInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\A1UserLogin.AssemblyInfo.cs
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\A1UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\A1UserLogin.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\refint\A1UserLogin.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\A1UserLogin.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Assignments\A1UserLogin\A1UserLogin\obj\Debug\net6.0\ref\A1UserLogin.dll

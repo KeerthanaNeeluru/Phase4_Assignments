@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1UserLogin", "A1UserLogin\A1UserLogin.csproj", "{E68570D5-DDDD-498F-9BEC-FD244FC6E347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject1", "SpecFlowProject1\SpecFlowProject1.csproj", "{DBD07675-F7C3-4FC3-A28A-E3B691656502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E68570D5-DDDD-498F-9BEC-FD244FC6E347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E68570D5-DDDD-498F-9BEC-FD244FC6E347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E68570D5-DDDD-498F-9BEC-FD244FC6E347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD07675-F7C3-4FC3-A28A-E3B691656502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD07675-F7C3-4FC3-A28A-E3B691656502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD07675-F7C3-4FC3-A28A-E3B691656502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD07675-F7C3-4FC3-A28A-E3B691656502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
